@@ -17,7 +17,7 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "phantomjs": "~1.9",
+    "phantomjs": "Medium/phantomjs#version-2.0",
     "lodash": "~3.8.0"
   },
   "peerDependencies": {
